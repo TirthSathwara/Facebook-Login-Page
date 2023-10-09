@@ -1,2 +1,2 @@
 # Facebook-Login-Page
-This is a Facebook login page clone.
+This is a clone of Facebook login page .
