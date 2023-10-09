@@ -4,4 +4,4 @@ This is a clone of Facebook login page .
 1. install node in your system https://nodejs.org/en/download
 2. Use Any software(Compiler) to run program
 3. open terminal use npm i (install node module)
-4. npm run start
+4. use npm run start
